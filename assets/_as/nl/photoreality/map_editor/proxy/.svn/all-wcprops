@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/14/_as/nl/photoreality/map_editor/proxy
+END
+LoadPanoramaProxy.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/_as/nl/photoreality/map_editor/proxy/LoadPanoramaProxy.as
+END
+SaveXMLProxy.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14/_as/nl/photoreality/map_editor/proxy/SaveXMLProxy.as
+END
+LoadXMLProxy.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14/_as/nl/photoreality/map_editor/proxy/LoadXMLProxy.as
+END
+LoadPanoramaAssetsProxy.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14/_as/nl/photoreality/map_editor/proxy/LoadPanoramaAssetsProxy.as
+END
+LoadAssetsProxy.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/_as/nl/photoreality/map_editor/proxy/LoadAssetsProxy.as
+END
+LoadFloorsProxy.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/_as/nl/photoreality/map_editor/proxy/LoadFloorsProxy.as
+END

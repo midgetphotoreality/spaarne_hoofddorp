@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses
+END
+ColorBurn.pbj
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/ColorBurn.pbj
+END
+ColorBurn.pbk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/ColorBurn.pbk
+END
+LuminosityMaskShader.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/LuminosityMaskShader.as
+END
+SaturationShader.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/SaturationShader.as
+END
+Exclusion.pbj
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/Exclusion.pbj
+END
+Exclusion.pbk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/Exclusion.pbk
+END
+Luminosity.pbj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/Luminosity.pbj
+END
+Luminosity.pbk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/Luminosity.pbk
+END
+Color.pbj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/Color.pbj
+END
+Color.pbk
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/Color.pbk
+END
+Hue.pbj
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/Hue.pbj
+END
+ColorDodge.pbj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/ColorDodge.pbj
+END
+Hue.pbk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/Hue.pbk
+END
+ColorDodge.pbk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/ColorDodge.pbk
+END
+SoftLightShader.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/SoftLightShader.as
+END
+ColorBurnShader.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/ColorBurnShader.as
+END
+ExclusionShader.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/ExclusionShader.as
+END
+Saturation.pbj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/Saturation.pbj
+END
+Saturation.pbk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/Saturation.pbk
+END
+LuminosityShader.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/LuminosityShader.as
+END
+ColorShader.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/ColorShader.as
+END
+LuminosityMaskFilter.pbj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/LuminosityMaskFilter.pbj
+END
+LuminosityMaskFilter.pbk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/LuminosityMaskFilter.pbk
+END
+HueShader.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/HueShader.as
+END
+ColorDodgeShader.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/ColorDodgeShader.as
+END
+SoftLight.pbj
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/SoftLight.pbj
+END
+SoftLight.pbk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14/_as/mx/graphics/shaderClasses/SoftLight.pbk
+END

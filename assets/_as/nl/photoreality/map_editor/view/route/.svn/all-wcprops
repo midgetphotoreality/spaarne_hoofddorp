@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14/_as/nl/photoreality/map_editor/view/route
+END
+RoutePointDetails.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/_as/nl/photoreality/map_editor/view/route/RoutePointDetails.as
+END
+RouteContainer.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/_as/nl/photoreality/map_editor/view/route/RouteContainer.as
+END
+LabelContainer.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/_as/nl/photoreality/map_editor/view/route/LabelContainer.as
+END
+RouteMain.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14/_as/nl/photoreality/map_editor/view/route/RouteMain.as
+END
+RouteMenu.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14/_as/nl/photoreality/map_editor/view/route/RouteMenu.as
+END
+RouteOffsetFixer.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/_as/nl/photoreality/map_editor/view/route/RouteOffsetFixer.as
+END
+RouteDetails.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/_as/nl/photoreality/map_editor/view/route/RouteDetails.as
+END
+RoutePoint.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/_as/nl/photoreality/map_editor/view/route/RoutePoint.as
+END

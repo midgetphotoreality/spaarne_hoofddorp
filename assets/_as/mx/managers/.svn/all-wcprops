@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/14/_as/mx/managers
+END
+BrowserManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/14/_as/mx/managers/BrowserManager.as
+END
+SystemManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/14/_as/mx/managers/SystemManager.as
+END
+PopUpManagerImpl.as
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/14/_as/mx/managers/PopUpManagerImpl.as
+END
+IDragManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/14/_as/mx/managers/IDragManager.as
+END
+SystemManagerGlobals.as
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14/_as/mx/managers/SystemManagerGlobals.as
+END
+IFocusManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/14/_as/mx/managers/IFocusManager.as
+END
+ISystemManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/14/_as/mx/managers/ISystemManager.as
+END
+SystemChildrenList.as
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/14/_as/mx/managers/SystemChildrenList.as
+END
+CursorManagerImpl.as
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/14/_as/mx/managers/CursorManagerImpl.as
+END
+PopUpData.as
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/14/_as/mx/managers/PopUpData.as
+END
+IToolTipManagerClient.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14/_as/mx/managers/IToolTipManagerClient.as
+END
+IToolTipManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/14/_as/mx/managers/IToolTipManager.as
+END
+IFocusManagerComplexComponent.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/_as/mx/managers/IFocusManagerComplexComponent.as
+END
+PopUpManagerChildList.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14/_as/mx/managers/PopUpManagerChildList.as
+END
+PopUpManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/14/_as/mx/managers/PopUpManager.as
+END
+HistoryManagerGlobals.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14/_as/mx/managers/HistoryManagerGlobals.as
+END
+IMarshalSystemManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14/_as/mx/managers/IMarshalSystemManager.as
+END
+IFocusManagerGroup.as
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/14/_as/mx/managers/IFocusManagerGroup.as
+END
+IHistoryManagerClient.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14/_as/mx/managers/IHistoryManagerClient.as
+END
+IHistoryManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/14/_as/mx/managers/IHistoryManager.as
+END
+IActiveWindowManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14/_as/mx/managers/IActiveWindowManager.as
+END
+ToolTipManagerImpl.as
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/14/_as/mx/managers/ToolTipManagerImpl.as
+END
+CursorManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/14/_as/mx/managers/CursorManager.as
+END
+LayoutManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/14/_as/mx/managers/LayoutManager.as
+END
+CursorManagerPriority.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14/_as/mx/managers/CursorManagerPriority.as
+END
+FocusManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/14/_as/mx/managers/FocusManager.as
+END
+HistoryManagerImpl.as
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/14/_as/mx/managers/HistoryManagerImpl.as
+END
+IToolTipManager2.as
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/14/_as/mx/managers/IToolTipManager2.as
+END
+ILayoutManagerClient.as
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14/_as/mx/managers/ILayoutManagerClient.as
+END
+ILayoutManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/14/_as/mx/managers/ILayoutManager.as
+END
+ICursorManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/14/_as/mx/managers/ICursorManager.as
+END
+SystemManagerProxy.as
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/14/_as/mx/managers/SystemManagerProxy.as
+END
+ToolTipManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/14/_as/mx/managers/ToolTipManager.as
+END
+IFocusManagerContainer.as
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14/_as/mx/managers/IFocusManagerContainer.as
+END
+IBrowserManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/14/_as/mx/managers/IBrowserManager.as
+END
+ISystemManagerChildManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14/_as/mx/managers/ISystemManagerChildManager.as
+END
+DragManagerImpl.as
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/14/_as/mx/managers/DragManagerImpl.as
+END
+HistoryManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/14/_as/mx/managers/HistoryManager.as
+END
+BrowserManagerImpl.as
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/14/_as/mx/managers/BrowserManagerImpl.as
+END
+SystemRawChildrenList.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14/_as/mx/managers/SystemRawChildrenList.as
+END
+IFocusManagerComponent.as
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14/_as/mx/managers/IFocusManagerComponent.as
+END
+IPopUpManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/14/_as/mx/managers/IPopUpManager.as
+END
+DragManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/14/_as/mx/managers/DragManager.as
+END

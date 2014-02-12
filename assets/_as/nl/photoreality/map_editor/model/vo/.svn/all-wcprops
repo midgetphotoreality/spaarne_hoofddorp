@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14/_as/nl/photoreality/map_editor/model/vo
+END
+IconVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/_as/nl/photoreality/map_editor/model/vo/IconVO.as
+END
+RoutePointVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/_as/nl/photoreality/map_editor/model/vo/RoutePointVO.as
+END
+PanoramaVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14/_as/nl/photoreality/map_editor/model/vo/PanoramaVO.as
+END
+RouteVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14/_as/nl/photoreality/map_editor/model/vo/RouteVO.as
+END
+RouteFloorLabelVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/_as/nl/photoreality/map_editor/model/vo/RouteFloorLabelVO.as
+END
+SettingsVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14/_as/nl/photoreality/map_editor/model/vo/SettingsVO.as
+END
+FloorVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14/_as/nl/photoreality/map_editor/model/vo/FloorVO.as
+END
+PositionLabelVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/_as/nl/photoreality/map_editor/model/vo/PositionLabelVO.as
+END

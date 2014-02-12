@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/14/_as/mx/collections/errors
+END
+ItemPendingError.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14/_as/mx/collections/errors/ItemPendingError.as
+END
+CollectionViewError.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/_as/mx/collections/errors/CollectionViewError.as
+END
+SortError.as
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/14/_as/mx/collections/errors/SortError.as
+END
+CursorError.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14/_as/mx/collections/errors/CursorError.as
+END

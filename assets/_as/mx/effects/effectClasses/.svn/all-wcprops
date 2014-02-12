@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/14/_as/mx/effects/effectClasses
+END
+PropertyChanges.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14/_as/mx/effects/effectClasses/PropertyChanges.as
+END
+DissolveInstance.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/_as/mx/effects/effectClasses/DissolveInstance.as
+END
+ActionEffectInstance.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14/_as/mx/effects/effectClasses/ActionEffectInstance.as
+END
+ParallelInstance.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/_as/mx/effects/effectClasses/ParallelInstance.as
+END
+RotateInstance.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/_as/mx/effects/effectClasses/RotateInstance.as
+END
+FadeInstance.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/_as/mx/effects/effectClasses/FadeInstance.as
+END
+TweenEffectInstance.as
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14/_as/mx/effects/effectClasses/TweenEffectInstance.as
+END
+BlurInstance.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/_as/mx/effects/effectClasses/BlurInstance.as
+END
+SoundEffectInstance.as
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14/_as/mx/effects/effectClasses/SoundEffectInstance.as
+END
+MoveInstance.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/_as/mx/effects/effectClasses/MoveInstance.as
+END
+IrisInstance.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/_as/mx/effects/effectClasses/IrisInstance.as
+END
+SequenceInstance.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/_as/mx/effects/effectClasses/SequenceInstance.as
+END
+MaskEffectInstance.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14/_as/mx/effects/effectClasses/MaskEffectInstance.as
+END
+SetStyleActionInstance.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14/_as/mx/effects/effectClasses/SetStyleActionInstance.as
+END
+AddRemoveEffectTargetFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/_as/mx/effects/effectClasses/AddRemoveEffectTargetFilter.as
+END
+PauseInstance.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14/_as/mx/effects/effectClasses/PauseInstance.as
+END
+HideShowEffectTargetFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/_as/mx/effects/effectClasses/HideShowEffectTargetFilter.as
+END
+CompositeEffectInstance.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/_as/mx/effects/effectClasses/CompositeEffectInstance.as
+END
+AnimatePropertyInstance.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/_as/mx/effects/effectClasses/AnimatePropertyInstance.as
+END
+ZoomInstance.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/_as/mx/effects/effectClasses/ZoomInstance.as
+END

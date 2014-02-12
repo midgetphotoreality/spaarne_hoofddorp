@@ -1,0 +1,274 @@
+body{
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+
+#infoPrintAfdelingsnaam{
+	font-weight:bold;
+}
+
+.directionInfo{
+    left: 122px;
+    position: absolute;
+    top: 136px;
+}
+
+#versionText{
+    display: none;
+}
+
+#infoPrint {
+    position: absolute;
+    top: 20px;
+    width: 700px;
+    padding: 15px;
+    text-align: left;
+    font-size: 12px;
+    color: #000;
+    border-radius: 5px;
+    border: 1px solid #000;
+}
+
+.hidden{
+    display: none;
+}
+
+.infoContainer{
+    position: relative;
+    font-size: 12px;
+}
+
+.infoOpposite{
+    position:absolute;
+    font-size:13px;
+}
+
+.infoOppositeN{
+    font-weight: bold;
+    left: 410px;
+    top: 9px;
+    width: 300px;
+	
+}
+.infoOppositeS{
+	position:absolute;
+	top:15px;
+	left:190px;
+	width:300px;
+	font-weight:bold;
+}
+
+.infoLocation{
+	position:absolute;
+	font-size:13px;
+}
+.infoLocationN{
+	font-weight: bold;
+    left: 76px;
+    top: 277px;
+    width: 300px;
+}
+.infoLocationS{
+	font-weight: bold;
+    left: 337px;
+    position: absolute;
+    top: 10px;
+    width: 300px;
+}
+
+.infoEntranceLabel{
+	position:absolute;
+	border:1px solid;
+	border-radius:5px;
+	border-color:#000000;
+	background-color:#00aeef;
+	padding: 2px;
+	color:white;
+}
+.infoEntranceLabelN{
+	  font-weight: bold;
+    left: 417px;
+    top: 276px;
+    width: 78px;
+}
+.infoEntranceLabelS{
+	  left: 200px;
+    position: absolute;
+    top: 275px;
+    width: 70px;
+}
+
+.infoType{
+	position:absolute;
+	font-size:13px;
+}
+.infoTypeN{
+    font-weight: bold;
+    left: 105px;
+    position: absolute;
+    top: 8px;
+    width: 300px;
+}
+
+.infoTypeS{
+    font-weight: bold;
+    left: 349px;
+    position: absolute;
+    top: 277px;
+    width: 375px;
+}
+
+#logo{
+    left: 600px;
+    position: absolute;
+    top: 25px;
+}
+
+#selector{
+    display: none;
+}
+
+#print{
+    display: none;
+}
+
+#printDesc{
+    display: none;
+}
+
+#legenda{
+    left: 8px;
+    padding: 5px 6px 0 0;
+    position: absolute;
+    top: 204px;
+    border-radius: 5px;
+    border: 1px solid #00aeef;
+}
+
+
+#routeChoice{
+	position:absolute;
+	left:500px;
+	top:100px;
+}
+
+div.menuContainer {
+	display: none;
+	
+}
+
+div.maps {
+    left: 200px;
+    position: absolute;
+    top: 140px;
+}
+
+.ontzichtbaar {
+    display: none;
+}
+div.labelMap1 {
+    color: #353535;
+    font-size: 11px;
+    left: 205px;
+    position: absolute;
+    top: 120px;
+}
+
+div.instructionMap1{
+    font-size: 11px;
+    left: 315px;
+    position: absolute;
+    top: 120px;
+    width: 390px;
+}
+div.labelMap2 {
+    color: #353535;
+    font-size: 11px;
+    left: 201px;
+    position: absolute;
+    top: 500px
+}
+div.instructionMap2{
+    position:absolute;
+    left: 315px;
+    top:500px;
+    width: 390px;
+    font-size: 11px;
+}
+div.topLabel {
+	display: none;
+}
+div.map {
+	position: relative;
+}
+div.map1 {
+	/*
+	transform: rotate(180deg);
+	/* IE 9 * /
+	-ms-transform: rotate(180deg);
+	/* Safari and Chrome * /
+	-webkit-transform: rotate(180deg);
+	*/
+}
+div.map2 {
+	/*
+	transform: rotate(180deg);
+	/* IE 9 * /
+	-ms-transform: rotate(180deg);
+	/* Safari and Chrome * /
+	-webkit-transform: rotate(180deg);
+	*/
+	top: 77px;
+}
+.mapFloor {
+	position: relative;
+	top: 0px;
+	left: 0px;
+}
+.mapContent {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.mapImage {
+	position: relative;
+	top: 0px;
+	left: 0px;
+}
+.mapArrow {
+	width: 0px;
+	height: 0px;
+}
+span.mapLabelStart {
+	color: black;
+	display: inline-block;
+	white-space: nowrap;
+}
+span.mapLabelEnd {
+	padding: 2px;
+	color: white;
+	background-color: #353535;
+	display: inline-block;
+	white-space: nowrap;
+	font-size:12px;
+}
+
+div.mapsNoffset{
+	left: 181px;
+    position: absolute;
+    top: 60px;
+}
+
+.tooltip{
+	display:none;
+}
+.tooltip{
+	display:none;
+}
+.tooltipInner{
+	display:none;
+}
+
+.tooltip span{
+	display:none;
+}
